@@ -11,3 +11,4 @@ A = [1 0 0 0 0 0 0 0;
  x = inv(A)*b
  %this is git tutorail
  %thgis is second change
+ % thi is third change
